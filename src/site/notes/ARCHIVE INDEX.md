@@ -3,6 +3,7 @@
 ---
 
 
+![Cyberlocal001.gif](/img/user/Cyberlocal001.gif)
 
 Welcome! Here is a collection of notes, projects, and contacts I am slowly developing into a browsable archive. This is done by me [Hugo Pilate](hugopilate.com), and with support from the [Cyberlocal Strategies community](https://discord.gg/VtDufxdX).
 
