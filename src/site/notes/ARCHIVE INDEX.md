@@ -8,3 +8,14 @@ Welcome! Here is a collection of notes, projects, and contacts I am slowly devel
 
 If this archive is of use to you, please consider donating to my [Kofi page](https://ko-fi.com/U6U0G3B13).
 
+
+Projects
+[[WhatAMess_2023\|WhatAMess_2023]]
+[[Haul Earth Ledger\|Haul Earth Ledger]]
+
+Research Interests
+
+Writing
+[[Balancing hype and accountability\|Balancing hype and accountability]]
+[[Automation & Design Sprints\|Automation & Design Sprints]]
+[[A Journey Through HEL\|A Journey Through HEL]]
