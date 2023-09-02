@@ -59,11 +59,14 @@
       {% for imp in dynamics.index.afterContent %}
         {% include imp %}
       {% endfor %}
-    </main>
+
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
       {%include "components/sidebar.njk" %}
     {%endif%}
+
+    </main>
+
 
     {% if settings.dgLinkPreview === true %}
       {%include "components/linkPreview.njk"%}
